@@ -2,7 +2,7 @@
 
 namespace DDD.Domain.Entities
 {
-	public class User : BaseEntity
+	public class Correntista : BaseEntity
 	{
 		public string Name { get; set; }
 		public string Cpf { get; set; }

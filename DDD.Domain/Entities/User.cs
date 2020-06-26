@@ -6,7 +6,9 @@ namespace DDD.Domain.Entities
 	{
 		public string Name { get; set; }
 		public string Cpf { get; set; }
+
 		private DateTime _BirthDate;
+
 		public DateTime BirthDate
 		{
 			get
