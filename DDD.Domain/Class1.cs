@@ -4,7 +4,7 @@ namespace DDD.Domain
 {
     public class Class1
     {
-		//Teste
+		//Teste 1
 
     }
 }
